@@ -1,0 +1,9 @@
+body {
+    margin: 300px auto;
+    font-weight: bolder;
+}
+
+.button-container,
+.btn {
+    margin: 10px;
+}
